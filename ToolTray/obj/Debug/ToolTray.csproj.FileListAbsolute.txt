@@ -1,0 +1,15 @@
+D:\GitHub\ToolTray\ToolTray\obj\Debug\Gui\MainWindow.g.cs
+D:\GitHub\ToolTray\ToolTray\obj\Debug\EntryPoint\App.g.cs
+D:\GitHub\ToolTray\ToolTray\obj\Debug\ToolTray_MarkupCompile.cache
+D:\GitHub\ToolTray\ToolTray\obj\Debug\ToolTray_MarkupCompile.lref
+D:\GitHub\ToolTray\ToolTray\bin\Debug\ToolTray.exe.config
+D:\GitHub\ToolTray\ToolTray\bin\Debug\ToolTray.exe
+D:\GitHub\ToolTray\ToolTray\bin\Debug\ToolTray.pdb
+D:\GitHub\ToolTray\ToolTray\obj\Debug\Gui\MainWindow.baml
+D:\GitHub\ToolTray\ToolTray\obj\Debug\ToolTray.g.resources
+D:\GitHub\ToolTray\ToolTray\obj\Debug\ToolTray.Properties.Resources.resources
+D:\GitHub\ToolTray\ToolTray\obj\Debug\ToolTray.Resources.ImageResources.resources
+D:\GitHub\ToolTray\ToolTray\obj\Debug\ToolTray.csproj.GenerateResource.Cache
+D:\GitHub\ToolTray\ToolTray\obj\Debug\ToolTray.exe
+D:\GitHub\ToolTray\ToolTray\obj\Debug\ToolTray.pdb
+D:\GitHub\ToolTray\ToolTray\obj\Debug\ToolTray.csprojResolveAssemblyReference.cache
